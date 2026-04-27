@@ -1,0 +1,15 @@
+# Dependências do Projeto de Extração de Dados do Banco Mundial
+
+# Manipulação de dados
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Cliente API do Banco Mundial
+wbdata>=1.0.0
+requests>=2.28.0
+
+# Exportação de dados
+openpyxl>=3.0.0
+
+# Logging e utilitários
+python-dateutil>=2.8.0
